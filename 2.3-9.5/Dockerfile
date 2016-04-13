@@ -1,4 +1,4 @@
-FROM blacksquare/ruby-docker:2.3
+FROM blacksquare/ruby:2.3
 
 ENV DEBIAN_FRONTEND noninteractive
 
